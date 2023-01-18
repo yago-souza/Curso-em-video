@@ -1,0 +1,31 @@
+------------------>Definição de classe e objeto<------------------
+As classes tem que responder 3 perguntas:
+        Coisas que eu tenho
+        Coisas que eu faço
+        Como estou agora
+    Portanto uma classe possui atributos, metodos e estado.
+
+ ### Filme
+    Atributo -> Uma midia possui Autor, personagens, data de lançamento, etc.
+        Método - > Consumir (assistir), salvar, compartilhar
+            Estado -> Pode estar no estado assistido, não assistido ou assistindo
+
+    1°Identificar atributos
+        Classe Caneta
+        modelo: caractere
+        cor: caractere
+        ponta (tamanho): real
+        carga: inteiro
+        tampa: logico
+    2°Método
+        rabiscar(){
+            se(tampada) entao
+            escreva erro
+            se nao etc
+        }
+        tampar()
+    3° Estado
+        Destampoada
+        Azul
+        90% de carga
+------------------------------------------------------------------------
