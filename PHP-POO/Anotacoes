@@ -17,15 +17,64 @@ As classes tem que responder 3 perguntas:
         ponta (tamanho): real
         carga: inteiro
         tampa: logico
-    2°Método
+    2°Métodos
         rabiscar(){
             se(tampada) entao
             escreva erro
             se nao etc
         }
         tampar()
-    3° Estado
+    3°Estado
         Destampoada
         Azul
         90% de carga
 ------------------------------------------------------------------------
+
+---------------------------->Exercicio<----------------------------
+##Criar classe a partir de objetos reais e abstratos
+
+## Copo
+    1°Identificar atributos
+        Transparencia: logico
+        Tamanho(ml): real
+        Material: caractere
+        Tipo: caracter
+    2°Métodos
+        encher()
+        beber()
+        lavar()
+        guardar()
+    3°Estado
+        Cheio
+        Vazio
+        Quebrado
+        Limpo
+
+## Filme
+    1°Identificar atributos
+        Titulo: caractere
+        Diretores: caractere
+        Atores: caractere
+        Personagens: caractere
+        Produtoras: caractere
+        Lançamento: date
+        Nota: real
+        Duração: inteiro
+        Enredo: caractere
+
+    2°Métodos
+        assistir()
+        pausar()
+        compartilhar()
+        adicionar()
+        excluir()
+        alterar()
+    3°Estado
+        Em breve
+        Em cartaz
+        Lançado
+        Assistido
+        Salvo
+        Favorito
+
+
