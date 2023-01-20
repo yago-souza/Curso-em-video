@@ -34,10 +34,16 @@ class Filme
             $this->enredo = $enredo;
         }
 
+
     public function dicaFilme()
     {
         echo $this->titulo . PHP_EOL;
         echo $this->diretores;
+    }
+
+    public function getTitulo()
+    {
+        return $this->titulo;
     }
 }
 
