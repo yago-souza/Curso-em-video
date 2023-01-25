@@ -47,3 +47,5 @@ class Filme
     }
 }
 
+DIRETOR
+
